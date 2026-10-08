@@ -1,0 +1,7 @@
+station_id,name,locality,latitude,longitude,timezone,provider,sensor_id,reference_grade,first_utc,last_utc
+741,Aylesford Mountain,NOVA SCOTIA,45.07254,-64.84025,America/Halifax,AirNow,1278,True,2016-03-06T20:00:00Z,2026-10-07T23:00:00Z
+782,Kentville,NOVA SCOTIA,45.067284,-64.477425,America/Halifax,AirNow,25079,True,2016-03-06T20:00:00Z,2026-10-07T23:00:00Z
+774,Lake Major,NOVA SCOTIA,44.7198,-63.48076,America/Halifax,AirNow,25148,True,2016-03-06T20:00:00Z,2026-10-07T23:00:00Z
+776,Pictou,,45.681744,-62.696575,America/Halifax,AirNow,25335,True,,2026-10-07T23:00:00Z
+747,Port Hawkesbury,NOVA SCOTIA,45.614028,-61.362122,America/Glace_Bay,AirNow,5079232,True,2022-10-04T18:00:00Z,2026-10-07T23:00:00Z
+2037,Sydney,NOVA SCOTIA,46.142317,-60.172575,America/Glace_Bay,AirNow,3621,True,2016-03-06T20:00:00Z,2026-10-07T23:00:00Z
